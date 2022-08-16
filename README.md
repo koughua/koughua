@@ -35,7 +35,8 @@ Languages:
 Technologies: 
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-#E95420?&logo=Ubuntu)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Ros](https://img.shields.io/badge/-Ros-000?&logo=Ros)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 <div align="center">
