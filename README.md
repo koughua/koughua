@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 
 Languages:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
 Technologies: 
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=white)
 
 <div align="center">
 
