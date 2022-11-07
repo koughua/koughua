@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi there 👋 I'm Kou Genghua.
+# Hi there 👋 I'm Kou.
 
 </div>
 
