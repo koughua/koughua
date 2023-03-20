@@ -1,5 +1,5 @@
 
-
+<!--
 <!--
 **koughua/koughua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +43,7 @@ Technologies:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Ros](https://img.shields.io/badge/-Ros-000?&logo=Ros)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-
+-->
 <div align="center">
 
 
